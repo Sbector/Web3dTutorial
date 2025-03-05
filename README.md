@@ -26,9 +26,9 @@ npm run dev
 
 export default function Home() {
   return (
-    <>
-      Hello
-    </>
-  );
+    <div>
+      <h1>Hello</h1>
+    </div>
+  )
 }
 ```
