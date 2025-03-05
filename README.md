@@ -7,9 +7,9 @@ Tutorial para la creación de una plantilla para la creación de sitios 3d con N
 
 El primer paso es crear una app con nextjs.
 
-'''bash
+```bash
 npx create-next-app@latest
-'''
+```
 
 Dirígete [aquí](https://nextjs.org/docs/app/getting-started/installation) para más información
 
