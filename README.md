@@ -19,6 +19,8 @@ Dirígete [aquí](https://nextjs.org/docs/app/getting-started/installation) para
 npm install three @types/three @react-three/fiber @react-three/drei
 ```
 
+Dirígete [aquí](https://r3f.docs.pmnd.rs/getting-started/introduction) para más información
+
 ## Preparación de la escena
 
 - Entra al directorio recién creado con el nombnre de tu aplicación e introduce el siguiente código:
