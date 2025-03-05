@@ -13,6 +13,14 @@ npx create-next-app@latest
 
 Dirígete [aquí](https://nextjs.org/docs/app/getting-started/installation) para más información
 
+- Instala las dependencias necesarias:
+
+```bash
+npm install three @types/three @react-three/fiber @react-three/drei
+```
+
+## Preparación de la escena
+
 - Entra al directorio recién creado con el nombnre de tu aplicación e introduce el siguiente código:
 
 ```bash
